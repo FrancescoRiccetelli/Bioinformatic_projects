@@ -73,8 +73,9 @@ def extract_speAB_region(input_folder):
         #input("Fermo")
 
 # Example usage:
-input_folder = "/home/francesco/Desktop/Projects/Prosseda_05_2024/annotations/"
-output_fasta = "/home/francesco/Desktop/Projects/Prosseda_05_2024/annotations/speA_speB_all.fasta"
+input_folder = "/home/francesco/Desktop/Projects/annotations/"
+output_fasta = "/home/francesco/Desktop/Projects/annotations/speA_speB_all.fasta"
 
 extract_speAB_region(input_folder)
+
 
